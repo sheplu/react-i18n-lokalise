@@ -1,0 +1,8 @@
+{
+    "welcome_header": "Hello world!",
+    "welcome": {
+        "title": "Welcome to Project",
+        "data": "coucou",
+        "mykey": "I am a car"
+    }
+}
